@@ -1,1 +1,1 @@
-std $ bang
+std $ one
